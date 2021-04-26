@@ -56,7 +56,7 @@
 
 - 🌱 I’m currently learning; SASS & Tailwinds
  
-
+- Fun Fact:   I am funny!
 
 
 - 💬 Talk to me about; Anything that you would like.  
